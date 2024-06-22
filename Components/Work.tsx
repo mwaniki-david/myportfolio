@@ -24,7 +24,7 @@ const Work = () => {
           </div>
           <div className='px-6 py-5  max-width-[250px]'>
             <div className=' flex items-center justify-center border-white  rounded-lg w-full'>
-            <Link href='/#Contact'><Image src='/experience8.png' width={270} height={100} alt='aboutpic2' className='hover:bg-black bg-transparent rounded-lg shadow-lg shadow-white  '/></Link>
+            <Link href='https://nextjs-ecommerce-0-starting-point-e3qcwhmxq.vercel.app'><Image src='/experience8.png' width={270} height={100} alt='aboutpic2' className='hover:bg-black bg-transparent rounded-lg shadow-lg shadow-white  '/></Link>
             </div>
             <div className='relative -z-10 -top-4 items-center justify-center flex  px-5 py-6 shadow-lg shadow-white border border-white rounded-2xl max-w-[320px] '>
               <div className='flex flex-col font-bold '>
