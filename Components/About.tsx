@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 const About = () => {
   return (
-    <div id='About' className='w-screen h-screen  '>
+    <div id='About' className='w-screen h-screen sm:-mt-4 md:-mt-1'>
       <div className='w-full h-full flex justify-center items-center'>
         <div className='flex flex-col md:flex-row px-4 py-3  mr-[40px] '>
           <div className=' py-4 px-3  '>

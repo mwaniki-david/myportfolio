@@ -4,10 +4,10 @@ const Experiences = () => {
   return (
     <div id='Experience' className='w-screen h-auto '>
       <div className='w-full h-full flex flex-col justify-center items-center'>
-      <h1 className='font-bold text-[40px] md:text-[45px] py-5 left-0 flex mt-10 '>Experience.</h1>
-        <div className='flex flex-col md:flex-row gap-5 px-4 py-6'>
-          <div className=' py-5 px-3'>
-            <h2 className='font-bold text-[15px] py-6 max-w-[450px] md:mt-14 '>
+      <h1 className='font-bold text-[40px] md:text-[45px] py-5 left-0 flex  '>Experience.</h1>
+        <div className='flex flex-col md:flex-row gap-5 px-4 py-2'>
+          <div className=' py-3 px-3'>
+            <h2 className='font-bold text-[15px] py-3 max-w-[450px] md:mt-14 '>
 During my time at ALX Africa, I immersed myself in a dynamic learning environment where I gained practical experience in a variety of programming languages, including C, HTML, CSS, and JavaScript. This hands-on exposure allowed me to develop robust skills in web development and software engineering. 
             </h2>
           </div>
