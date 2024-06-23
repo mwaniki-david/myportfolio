@@ -9,7 +9,7 @@ const Herosection = () => {
           <div className='items-center flex px-3 '>
             <h1 className=' text-[26px] font-bold md:text-[40px] px-3 md:px-1'>HELLO!!</h1>
           </div>
-          <div className='max-w-[500px] md:max-w-[800px] lg:max-w-[1100px] font-bold text-[40px] md:text-[45px] uppercase px-3 md:px-1'>
+          <div className='max-w-[500px] md:max-w-[1000px] lg:max-w-[1100px] font-bold text-[40px] md:text-[45px] uppercase px-3 md:px-1'>
             I AM DAVID MWANIKI , A FULL STACK DEVELOPER based in kenya.
           </div>
           <div className='max-w-[500px] md:max-w-[800px] lg:max-w-[800px] px-4 text-[16px]'>
