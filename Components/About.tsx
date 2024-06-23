@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div id='About' className='w-screen h-screen  '>
       <div className='w-full h-full flex justify-center items-center'>
-        <div className='flex flex-col md:flex-row px-4 py-3 mt-[70px] mr-[40px] '>
+        <div className='flex flex-col md:flex-row px-4 py-3  mr-[40px] '>
           <div className=' py-4 px-3 mt-[40px] '>
             <h1 className='font-bold text-[40px] md:text-[45px] py-5 justify-center items-center flex'>ABOUT ME.</h1>
             <h2 className='font-bold text-[15px] py-6 px-4 max-w-[550px] '> Im a skilled software developer with experience in TypeScript and

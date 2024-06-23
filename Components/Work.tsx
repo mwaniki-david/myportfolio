@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 const Work = () => {
   return (
-    <div id='Work' className='w-screen h-auto py-4 px-8 mt-24 md:mt-40 '>
+    <div id='Work' className='w-screen h-auto py-4 px-8 mt-7 '>
       <div className='flex flex-col'>
         <div className=' flex items-center justify-center font-bold text-[45px] py-1'>
           <h1 className='px-4 py-4 font-bold md:text-[45px] text-[40px] uppercase'>
