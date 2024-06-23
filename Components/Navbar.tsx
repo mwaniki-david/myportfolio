@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className='fixed w-screen  top-0 '>
       <div className='flex  mx-auto px-[120px] md:px-6 lg:px-[80px] mt-1 items-center justify-center'>
         <div className='flex items-center justify-between h-16 gap-[120px] md:gap-[360px] lg:gap-[180px] '>
-          <div className='flex items-center px-4'>
+          <div className='flex items-center px-6 md:px-4'>
             <Link href='/' className='text-[28px] font-bold'>
               DNM
             </Link>
